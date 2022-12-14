@@ -8,7 +8,7 @@ Dia 06/12/2022
 Dia 09/12/2022
 - Conversa com Vinícius de SEGEL
 - Obtenção de informações 
-- Realização de 12 perguntas para mapear o problema e entender sua complexidade e abrangência
+- Realização de 12 perguntas para mapear o problema e entender sua complexidade e abrangência, podendo ser localizado na pasta "Relatório de Desenvolvimento" com o documento "informações1.txt" (/Relatório de Desenvolvimento/informações1.txt)
 
 Dia 13/12/2022
 - Conversa com Marlos da UFPE
