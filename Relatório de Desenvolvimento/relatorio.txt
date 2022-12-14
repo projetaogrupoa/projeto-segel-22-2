@@ -1,0 +1,16 @@
+Dia 01/12/2022
+- Formação do Time
+
+Dia 06/12/2022
+- Escolha do problema para criar solução
+- Problema: Gestão dos Equipamentos Esportivos da UFPE (foco: SEGEL)
+
+Dia 09/12/2022
+- Conversa com Vinícius de SEGEL
+- Obtenção de informações 
+- Realização de 12 perguntas para mapear o problema e entender sua complexidade e abrangência
+
+Dia 13/12/2022
+- Conversa com Marlos da UFPE
+- Confirmação de informações
+- Realização de uma checagem das informações obtidas dia 09/12/2022 e recortagem das respostas para entender melhor o foco do problema
