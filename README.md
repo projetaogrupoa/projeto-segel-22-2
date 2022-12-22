@@ -4,7 +4,17 @@ Este é o repositório do Projeto para Gestão de Equipamentos Esportivos da SEG
 
 O repositório está dividido em entregas, cada uma delas contendo um conjunto de tarefas específicas a serem entregues e/ou apresentadas o cliente e/ou professores. Cada entrega possui sua própria pasta, onde você poderá encontrar todos os arquivos relevantes para a entrega, incluindo documentação, relatórios e links para recursos de mídia externos.
 
-A seguir, uma descrição geral do conteúdo de cada pasta:
+
+## Autores
+
+- [Isabelle Queiroz](https://www.github.com/isabelleqga)
+- [Vinícius Marçal](https://www.github.com/)
+- [Paulo Vitor Oliveira](https://www.github.com/Vittorr)
+- [Lucas Florencio](https://www.github.com/luucaslfs)
+- [Valter Junior](https://www.github.com/valter-junior)
+
+
+## Descrição geral do conteúdo de cada pasta:
 
 - **Slides**: Nesta pasta, você encontrará os slides utilizados na apresentação do projeto para os professores.
 
