@@ -10,4 +10,4 @@ A seguir, uma descrição geral do conteúdo de cada pasta:
 
 - **Metodologia de trabalho**: Nesta pasta, você encontrará a metodologia ágil utilizada no projeto, incluindo informações sobre o papel de cada membro do grupo e os processos de planejamento, desenvolvimento e entrega das tarefas.
 
-- **Progresso das Atividades**: Nesta pasta, você encontrará links para as plataformas utilizadas para acompanhar o progresso das atividades do projeto, como o Trello ou o Jira. Aqui, você poderá ver a lista de tarefas a serem realizadas, bem como o status de cada uma delas.
+- **Progresso das Atividades**: Nesta pasta, você encontrará links para as plataformas utilizadas para acompanhar o progresso das atividades do projeto, como o Trello ou o Jira. Aqui, você poderá ver a lista de tarefas a serem realizadas, bem como o status de cada uma delas. Além disso, podrá ver o histórico de reuniões do grupo durante aquela etapa desenvolvida. Caso haja artefatos adicionais durante a etapa estarão nela também.

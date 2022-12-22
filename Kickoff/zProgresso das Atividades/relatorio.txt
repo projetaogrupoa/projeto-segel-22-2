@@ -17,3 +17,25 @@ Dia 13/12/2022
 - Conversa com Marlos da UFPE
 - Confirmação de informações
 - Realização de uma checagem das informações obtidas dia 09/12/2022 e recortagem das respostas para entender melhor o foco do problema
+
+Dia 17/12/2022
+- Criação dos artefatos de GPN para Kickoff
+- Realização da Matriz SIPOC e Diagrama de Escopo para a Gestão dos Equipamentos Esportivos
+
+Dia 19/12/2022
+- Reunião com Marlos da UFPE
+- Conhecimento sobre normas e políticas que afetam o problema
+- Discussão do passo a passo da gestão atual
+- Entendimento das falhas 
+- Entendimento da falta normas/políticas de gestão
+
+Dia 22/12/2022 (Manhã)
+- Reunião do grupo para organização final das informações e documentos
+- Finalização do Termo de Abertura
+- Finalização dos slides para apresentação
+- Análise 360 do grupo
+- Organização do GitHub
+- Organização do Notion como ferramenta principal para nossa metodologia
+
+Dia 22/12/2022 (Noite)
+- Apresentação dos artefatos do Kickoff
