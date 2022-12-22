@@ -12,3 +12,4 @@ O repositório está dividido em entregas, cada uma delas contendo um conjunto d
 - [Paulo Vitor Oliveira](https://www.github.com/Vittorr)
 - [Lucas Florencio](https://www.github.com/luucaslfs)
 - [Valter Junior](https://www.github.com/valter-junior)
+- [Thiago Botelho](https://www.github.com/)
