@@ -1,3 +1,20 @@
-# Falta desenvolver
+# Utilização da plataforma Notion que é capaz de:
 
-Scrum/Kanban
+- Utilizar Scrum/Kanban para facilitar visualização de tarefas e status de cada
+- Criação de prazos, descrições e alocação de links/documentos relacionados a cada entrega
+- Organização pública e de fácil acesso para todos
+
+## Tema do Grupo: 
+- Gestão dos Equipamentos Esportivos
+
+### Membros e suas funções:
+- Isabelle Queiroz Gomes de Assis (Gerente e Supervisor)
+- Paulo Vitor Alves de Oliveira (Arquiteto e Subgerente)
+- Vinicius Marçal Araujo (Comunicador e Analista) 
+- Thiago Botelho Rodrigues (Analista e Modelador)
+- Valter Jose da Silva Junior (Analista e Modelador)
+- Lucas Florencio de Souza (Analista e Modelador)
+
+#### Processo de planejamento e alocação de tarefas para cada membro pode ser vista no Notion:
+- Notion: https://gainful-zephyr-5c8.notion.site/Projet-o-SEGEL-574c847bab1c4842a7b3f8473cb32411
+
