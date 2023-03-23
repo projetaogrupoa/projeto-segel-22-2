@@ -10,6 +10,8 @@
 ## PGP
 - [Progresso das Atividades do Grupo](https://gainful-zephyr-5c8.notion.site/Projeto-SEGEL-574c847bab1c4842a7b3f8473cb32411)  
 
+- [Relatório de Status do Projeto (Status Report)](/StatusReport2/PGP/Status%20Report.pdf)
+
 ### Gerência de Escopo
 - [Plano de Gerenciamento de Escopo](https://docs.google.com/document/d/1Zw34CQJiNeBAfu_6yqHk4OUsp4kgmqWbUl3YpCPC0xA)  
 
