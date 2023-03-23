@@ -1,11 +1,14 @@
 ## Índice de Artefatos do Status Report 2  
   
  . 
-  
-- [Checklist](https://docs.google.com/spreadsheets/d/1DP6PL4tH3mFxMxzjkvHUGcXXHfqB3rMLFpmBd6XgmPY/edit#gid=1398848070) - Roteiro para identificação de informações relevantes para a análise do processo  
+
+- [Slides](https://www.canva.com/design/DAFd9RNpxTI/xa2yJry0EndrSBHxogWZTg/edit?utm_content=DAFd9RNpxTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Progresso das Atividades do Grupo](https://gainful-zephyr-5c8.notion.site/Projeto-SEGEL-574c847bab1c4842a7b3f8473cb32411)  
 
 - [Planilha de Análise do Processo de Negócio](https://docs.google.com/spreadsheets/d/1GUpxY5dhjrREdxMKTkuqnBW_aiJdIZ2BZmYcIj3e3cQ) 
 
+- [Checklist](https://docs.google.com/spreadsheets/d/1DP6PL4tH3mFxMxzjkvHUGcXXHfqB3rMLFpmBd6XgmPY/edit#gid=1398848070) (Roteiro para identificação de informações relevantes para a análise do processo)
 
 ### Gerência de Escopo
 - [Plano de Gerenciamento de Escopo](https://docs.google.com/document/d/1Zw34CQJiNeBAfu_6yqHk4OUsp4kgmqWbUl3YpCPC0xA)  
