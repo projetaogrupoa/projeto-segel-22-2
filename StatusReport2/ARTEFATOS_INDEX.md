@@ -1,6 +1,5 @@
 # Índice de Artefatos do Status Report 2  
-  
- . 
+
 
 ## GPN
 
@@ -9,8 +8,6 @@
 - [Checklist](https://docs.google.com/spreadsheets/d/1DP6PL4tH3mFxMxzjkvHUGcXXHfqB3rMLFpmBd6XgmPY/edit#gid=1398848070) (Roteiro para identificação de informações relevantes para a análise do processo)
 
 ## PGP
-- [Slides](https://www.canva.com/design/DAFd9RNpxTI/xa2yJry0EndrSBHxogWZTg/edit?utm_content=DAFd9RNpxTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 - [Progresso das Atividades do Grupo](https://gainful-zephyr-5c8.notion.site/Projeto-SEGEL-574c847bab1c4842a7b3f8473cb32411)  
 
 ### Gerência de Escopo
@@ -28,8 +25,10 @@
 ### Gerência de Custos
 - [Plano de Gerenciamento de Custos](/StatusReport2/PGP/Gerencia%20de%20Custos_Plano%20de%20Gerenciamento%20de%20Custos.pdf) 
 
-
 ### Gerência de Riscos
 - [Plano de Gerenciamento de Riscos](https://docs.google.com/document/d/1ztDoxmm3UPzAwohppRFfgBKG5fYrzjSYqghKkTTTfuY)
     
 - [Lista de Riscos](https://docs.google.com/spreadsheets/d/1Tl9bK9P0uKBJ8VVcsaeGZjPILJE3SzQ-EBsyWjp2Xro)
+
+## SGE
+- [Slides](https://www.canva.com/design/DAFd9RNpxTI/xa2yJry0EndrSBHxogWZTg/edit?utm_content=DAFd9RNpxTI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
